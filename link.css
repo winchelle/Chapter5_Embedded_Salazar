@@ -1,0 +1,9 @@
+* { /*position of the video*/
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+body { /*background color*/
+    background-color: cadetblue;
+}
